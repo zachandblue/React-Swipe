@@ -1,8 +1,9 @@
-body,
-html {
-  position: fixed;
+@media (max-width: 460px) {
+  body,
+  html {
+    position: fixed;
+  }
 }
-
 .App {
   text-align: center;
 
